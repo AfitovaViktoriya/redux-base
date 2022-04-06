@@ -5,7 +5,6 @@ const initialState = {
 }
 
 export const inputReducer = (state = initialState, action) => {
-	console.log('input trxt Reducer > ', action)
 	switch (action.type) {
     case INPUT_TEXT:
       return {
