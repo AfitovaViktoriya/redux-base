@@ -34,7 +34,7 @@
 }
 .card-comments {
   flex: 1 0 40%;
-  max-width: 40%;
+  max-width: 35%;
 }
 .comments-item {
   display: flex;

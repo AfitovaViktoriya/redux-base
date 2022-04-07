@@ -14,5 +14,4 @@ export const inputReducer = (state = initialState, action) => {
     default:
       return state;
   }
-  return state;
 };
